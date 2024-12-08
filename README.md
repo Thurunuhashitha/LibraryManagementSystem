@@ -19,22 +19,17 @@ better user experience, and meet the growing demand for digital library resource
 
 - **Patron Features**:
    - Reserve books.
-   - Enroll in courses.
-   - View enrolled courses.
 
 - **Employee Features**:
    - Manage membership statuses.
    - Handle inventory.
    - Issue fines.
-   - Enroll in courses.
-   - View enrolled courses.
    
 - **Loan System**:
    - Calculate fines.
    - Complete returns.
    - Check due dates.
    - Extend loans.
-   - Manage course details.
 
 - **Library System**:
    - Add, remove, or find books.
