@@ -10,41 +10,42 @@ better user experience, and meet the growing demand for digital library resource
 ---
 
 ## Features
--**Member Functionality**:
-   -Update contact information.
-   -Borrow, return, and reserve books.
-   -Upgrade or downgrade membership.
-   -Pay fines.
 
--**Patron Features**:
-   -Reserve books.
-   -Enroll in courses.
-   -View enrolled courses.
+- **Member Functionality**:
+   - Update contact information.
+   - Borrow, return, and reserve books.
+   - Upgrade or downgrade membership.
+   - Pay fines.
 
--**Employee Features**:
-   -Manage membership statuses.
-   -Handle inventory.
-   -Issue fines.
-   -Enroll in courses.
-   -View enrolled courses.
+- **Patron Features**:
+   - Reserve books.
+   - Enroll in courses.
+   - View enrolled courses.
+
+- **Employee Features**:
+   - Manage membership statuses.
+   - Handle inventory.
+   - Issue fines.
+   - Enroll in courses.
+   - View enrolled courses.
    
--**Loan System**:
-   -Calculate fines.
-   -Complete returns.
-   -Check due dates.
-   -Extend loans.
-   -Manage course details.
+- **Loan System**:
+   - Calculate fines.
+   - Complete returns.
+   - Check due dates.
+   - Extend loans.
+   - Manage course details.
 
--**Library System**:
-   -Add, remove, or find books.
-   -Register new members.
+- **Library System**:
+   - Add, remove, or find books.
+   - Register new members.
 
--**Books**:
-   -Ebooks: Download files and check file size.
-   -Printed Books: Update location, quantity, and condition.
+- **Books**:
+   - Ebooks: Download files and check file size.
+   - Printed Books: Update location, quantity, and condition.
 
--**Secure Login System**:
-   -Authentication for administrators and students.
+- **Secure Login System**:
+   - Authentication for administrators and students.
 
 ---
 
@@ -69,30 +70,11 @@ better user experience, and meet the growing demand for digital library resource
 
 ## Technologies Used
 - **Programming Language**: Python
-- **Architecture**: MVC (Model-View-Controller)
-- **Database**: In-memory data structures (can be extended to use a database like SQLite or PostgreSQL)
-
 ---
 
 ## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b development
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature name"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin development
-   ```
-5. Create a pull request.
-
 ---
-List of contributors:
+Our contributors:
 - Sashin Deemantha
 - K.G.T.HASHITHA
 - U.V.C.T.JAYATHILAKA
