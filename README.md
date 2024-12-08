@@ -10,47 +10,40 @@ better user experience, and meet the growing demand for digital library resource
 ---
 
 ## Features
--Member Functionality:
-
+-**Member Functionality**:
    -Update contact information.
    -Borrow, return, and reserve books.
    -Upgrade or downgrade membership.
    -Pay fines.
 
--Patron Features:
-
+-**Patron Features**:
    -Reserve books.
    -Enroll in courses.
    -View enrolled courses.
 
--Employee Features:
-
+-**Employee Features**:
    -Manage membership statuses.
    -Handle inventory.
    -Issue fines.
    -Enroll in courses.
    -View enrolled courses.
    
--Loan System:
-
+-**Loan System**:
    -Calculate fines.
    -Complete returns.
    -Check due dates.
    -Extend loans.
    -Manage course details.
 
--Library System:
-
+-**Library System**:
    -Add, remove, or find books.
    -Register new members.
 
--Books:
-
+-**Books**:
    -Ebooks: Download files and check file size.
    -Printed Books: Update location, quantity, and condition.
 
--Secure Login System:
-
+-**Secure Login System**:
    -Authentication for administrators and students.
 
 ---
